@@ -1,0 +1,11 @@
+body{
+    color: white;
+    padding: 0px;
+    margin: 0px;
+    background-image: url("messi\ GOAT.jpg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position:right-top;
+}
+
